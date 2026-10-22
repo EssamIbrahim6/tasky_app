@@ -84,14 +84,7 @@ lib/
 
 ---
 
-## ⚙️ Installation
 
-```bash
-git clone https://github.com/Basmala-hub/tasky_app.git
-cd tasky_app
-flutter pub get
-flutter run
-```
 
 ---
 
@@ -104,12 +97,4 @@ flutter run
 
 ---
 
-## 👩‍💻 Author
 
-Basmala Sayed Salah
-
-* GitHub:
-  https://github.com/Basmala-hub
-
-* LinkedIn:
-  https://www.linkedin.com/in/basmala-sayed462004
